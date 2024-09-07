@@ -8,9 +8,11 @@ But as we engage with larger datasets and enter the field of Big Data, SQL among
 
 # Project Structure
 Each query in the project is prefaced with a description of its objective, and some are followed by a brief explanation of the SQL code used. After each query, a comment summarizes the findings, helping to interpret the results in the context of the EDA.
+## Languages and Tools Used
+This project employs the following technologies:
+- **PostgreSQL**: The primary tool used for querying and analyzing the sales data.
+- **Jupyter Notebook**: Displays the results of queries and comments on the data.
 
 # Conclusion
 This project demonstrates how SQL can be used to perform essential data analysis tasks, offering a solid foundation for more advanced analyses involving larger datasets. 
 I hope you find this project helpful!
-
-
