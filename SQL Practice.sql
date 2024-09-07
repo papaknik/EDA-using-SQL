@@ -1,3 +1,4 @@
+-- SQL code
 /* We begin by examining the columns' data types for the tables to ensure that
 the data is correctly formatted and to understand the structure of the dataset. This step
 is crucial for validating data integrity and preparing for subsequent analysis. */
